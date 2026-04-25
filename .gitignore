@@ -1,0 +1,19 @@
+# Dane logowania i stan sesji
+.env
+data/
+!data/.gitkeep
+
+# Zależności Pythona
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Playwright
+playwright/.local-browsers/
+
+# Edytory
+.idea/
+.vscode/
+*.swp
+*.swo
